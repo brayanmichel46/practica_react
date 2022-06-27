@@ -8,6 +8,7 @@ const CreateAccount = () => {
 				<h1 className="title">My account</h1>
 				<form action="/" className="form">
 					<div>
+						
 						<label for="name" className="label">Name</label>
 						<input type="text" id="name" placeholder="Teff" className="input input-name" />
 						<label for="email" className="label">Email</label>
